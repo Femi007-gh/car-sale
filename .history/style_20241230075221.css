@@ -1,0 +1,143 @@
+body{
+  background-color: E9F4FA;
+}
+
+.nav-bar{
+  background-color: #333333;
+  width: 2000px;
+  height: 50px;
+  margin-top: -8px;
+  margin-left: -8px;
+}
+
+.service{
+  font-size: 30px;
+  font-family: Arial;
+  font-weight: bold;
+  color: white;
+  margin-top: -49px;
+  margin-left: 30px;
+}
+
+.desc{
+  max-width: 1200px;
+  margin: o auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: Arial;
+  margin-left: 1600px;
+  font-size: 17px;
+  margin-top: -75px;
+  color: white;
+}
+
+
+nav ul {
+  list-style-type: none;
+  display:  flex;
+}
+
+nav ul li {
+  margin-right: 20px;
+}
+
+.body{
+  background-color: #F3F8FB;
+}
+
+.nav-bar{
+  background-color: #333333;
+  width: 2300px;
+  height: 50px;
+}
+
+.service{
+  font-size: 30px;
+  font-family: Arial;
+  font-weight: bold;
+  color: white;
+  margin-top: -49px;
+  margin-left: 30px;
+}
+
+.desc{
+  max-width: 1200px;
+  margin: o auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: Arial;
+  margin-left: 1600px;
+  font-size: 17px;
+  margin-top: -75px;
+  color: white;
+}
+
+
+nav ul {
+  list-style-type: none;
+  display:  flex;
+}
+
+nav ul li {
+  margin-right: 20px;
+}
+
+.car1{
+  background-color: #ffffff;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(17, 16, 16, 0.2);
+  width: 300px;
+  height: 350px;
+  margin: 20px;
+  margin-left: 500px;
+}
+
+.car2{
+  background-color: #ffffff;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(17, 16, 16, 0.2);
+  width: 300px;
+  height: 350px;
+  margin: 20px;
+  margin-left: 870px;
+  margin-top: -410px;
+}
+
+.car3{
+  background-color: #ffffff;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(17, 16, 16, 0.2);
+  width: 300px;
+  height: 350px;
+  margin: 20px;
+  margin-left: 500px;
+}
+
+.car4{
+  background-color: #ffffff;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(17, 16, 16, 0.2);
+  width: 300px;
+  height: 350px;
+  margin: 20px;
+  margin-left: 870px;
+  margin-top: -410px;
+}
+
+
+.last-thing{
+  background-color: #333333;
+  width: 2100px;
+  height: 60px;
+}
+
+.text{
+  color: white;
+  margin-top: -30px;
+  margin-left: 700px;
+  font-size: 20px;
+  font-family: Arial;
+}
+

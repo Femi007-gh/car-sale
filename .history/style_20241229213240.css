@@ -1,0 +1,37 @@
+body {
+    background-color: EDF0F5;
+}
+
+.white {
+    background-color: white;
+    height: 250px;
+    width: 180px;
+}
+
+.benz {
+    height: 120px;
+    width: 150px;
+    margin-left: 14px;
+    margin-top: 10px;
+}
+
+.tesla {
+    height: 120px;
+    width: 150px;
+    margin-left: px;
+    margin-top: 10px;
+}
+
+.ferrari {
+    height: 120px;
+    width: 150px;
+    margin-left: 14px;
+    margin-top: 10px;
+}
+
+.suv {
+    height: 120px;
+    width: 150px;
+    margin-left: 14px;
+    margin-top: 10px;
+}
